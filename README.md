@@ -1,5 +1,5 @@
 # Hi 👋, I'm Emad Abedini  
-**Full-Stack Developer | Security Researcher**  
+#### Full-Stack Developer | Security Researcher
 
 - 🌐 **Website:** [emad-abedini.ir](https://emad-abedini.ir) (Persian)  
 
