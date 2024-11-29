@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Emad Abedini</h1>
-<h3 align="center">A Full-Stack Developer + Security Researcher</h3>
+# Hi 👋, I'm Emad Abedini  
+**Full-Stack Developer | Security Researcher**  
 
-- 👨‍💻 Some of my projects are available on [https://emad-abedini.ir](https://emad-abedini.ir) (Persian)
+- 🌐 **Website:** [emad-abedini.ir](https://emad-abedini.ir) (Persian)  
 
-- 📝 I regularly write articles on [https://virgool.io/@emad_abedini](https://virgool.io/@emad_abedini) (Persian)
+- ✍️ **Blogs:**  
+  - [Virgool](https://virgool.io/@emad_abedini) (Persian)  
+  - [Medium](https://medium.com/@emad-abedini) (English)  
+  
+- 🎥 **Videos:** [YouTube](#) and [Aparat](#)  
+- 📧 **Email:** emad.ab3dini@gmail.com  
 
-- 📫 keep in touch with me at **emad.ab3dini@gmail.com**
-
-- 💼 LinkedIn [https://www.linkedin.com/in/emad-abedini](https://www.linkedin.com/in/emad-abedini)
+- 💼 **LinkedIn:** [linkedin.com/in/emad-abedini](https://www.linkedin.com/in/emad-abedini)  
