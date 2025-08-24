@@ -1,7 +1,7 @@
 # Hi 👋, I'm Emad Abedini  
 #### Full-Stack Developer | Security Researcher
 
-- 🌐 **Website:** [emad-abedini.ir](https://emad-abedini.ir) (Persian)  
+- 🌐 **Website:** [emad-abedini.ir](https://emadabedini.ir) 
 
 - ✍️ **Blogs:**  
   - [Virgool](https://virgool.io/@emad_abedini) (Persian)  
